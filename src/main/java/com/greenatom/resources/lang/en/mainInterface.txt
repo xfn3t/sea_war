@@ -1,0 +1,4 @@
+1. Start game
+2. Change lang
+0. Exit
+Enter command:

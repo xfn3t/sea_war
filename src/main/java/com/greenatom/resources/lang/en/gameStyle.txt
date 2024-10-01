@@ -1,0 +1,4 @@
+1. Game for two
+2. Game with computer
+0. Back
+Enter command:
